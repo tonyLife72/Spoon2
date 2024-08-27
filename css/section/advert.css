@@ -1,0 +1,30 @@
+.advert {
+    margin-top: 120px;
+}
+
+.advert__container {
+    max-width: 1380px;
+    margin: 0 auto;
+}
+
+.advert__contant{
+    display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 115px 364px 139px 328px;
+}
+
+.advert__info {
+    text-align: center;
+}
+
+.extra-info {
+    font-family: var(--fontTitle);
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 164%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #5ab963;
+    margin-top: 6px;
+}
